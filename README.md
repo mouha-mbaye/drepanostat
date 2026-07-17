@@ -28,7 +28,7 @@ sont présentées à l’utilisateur sous les libellés « Témoin véhicule » 
 Python 3.11 ou une version plus récente est recommandé.
 
 ```bash
-git clone <URL_DU_DEPOT>
+git clone <https://github.com/mouha-mbaye/drepanostat>
 cd drepano_stat
 python -m venv .venv
 ```
