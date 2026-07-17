@@ -23,6 +23,10 @@ Les valeurs internes `Vehicle` et `Emmel` sont conservées pour les calculs. Ell
 sont présentées à l’utilisateur sous les libellés « Témoin véhicule » et
 « Témoin Emmel ».
 
+## Aperçu de l’application
+
+![Interface DrepanoStat](assets/screenshots/interface.png)
+
 ## Installation
 
 Python 3.11 ou une version plus récente est recommandé.
@@ -133,7 +137,8 @@ La version **v0.1.0** constitue la première version stable locale. Elle couvre 
 
 ## Auteur
 
-Mbaye — Projet développé dans le cadre d’un outil d’appui à l’analyse statistique des tests anti-falcémiants en pharmacognosie.
+Mouhamed Mbaye — Laboratoire de Biophysique Pharmaceutique, Département de Pharmacie, FMPO, UCAD.
+Projet développé dans le cadre d’un outil d’appui à l’analyse statistique des tests anti-falcémiants en pharmacognosie.
 
 ## Licence
 
