@@ -1,0 +1,2 @@
+"""Modules métier de DrepanoStat."""
+

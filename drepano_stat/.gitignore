@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environnements et secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+.streamlit/secrets.toml
+
+# IDE et système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Caches locaux
+.matplotlib/
+mplconfig/
+
+# Résultats et exports générés
+outputs/
+exports/
+*.xlsx
+*.xls
+*.docx
+*.pdf
+*.zip
+*.tmp
+~$*
+
+# L'exemple versionné fait exception
+!examples/modele_exemple.xlsx
