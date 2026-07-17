@@ -25,7 +25,7 @@ sont présentées à l’utilisateur sous les libellés « Témoin véhicule » 
 
 ## Aperçu de l’application
 
-![Interface DrepanoStat](assets/screenshots/interface.png)
+![Interface DrepanoStat](drepano_stat/assets/screenshots/interface.png)
 
 ## Installation
 
