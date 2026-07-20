@@ -23,17 +23,24 @@ Les valeurs internes `Vehicle` et `Emmel` sont conservées pour les calculs. Ell
 sont présentées à l’utilisateur sous les libellés « Témoin véhicule » et
 « Témoin Emmel ».
 
+<<<<<<< HEAD
 ## Aperçu de l’application
 
 ![Interface DrepanoStat](drepano_stat/assets/screenshots/interface.png)
 
+=======
+>>>>>>> d2a8c7b (Restructure project layout)
 ## Installation
 
 Python 3.11 ou une version plus récente est recommandé.
 
 ```bash
 git clone https://github.com/mouha-mbaye/drepanostat
+<<<<<<< HEAD
 cd drepano_stat
+=======
+cd drepanostat
+>>>>>>> d2a8c7b (Restructure project layout)
 python -m venv .venv
 ```
 
@@ -137,10 +144,13 @@ La version **v0.1.0** constitue la première version stable locale. Elle couvre 
 
 ## Auteur
 
+<<<<<<< HEAD
 Mouhamed Mbaye — Laboratoire de Biophysique Pharmaceutique, Département de Pharmacie, FMPO, UCAD.
 Projet développé dans le cadre d’un outil d’appui à l’analyse statistique des tests anti-falcémiants en pharmacognosie.
+=======
+Mbaye — Projet développé dans le cadre d’un outil d’appui à l’analyse statistique des tests anti-falcémiants en pharmacognosie.
+>>>>>>> d2a8c7b (Restructure project layout)
 
 ## Licence
 
 Ce projet est distribué sous licence MIT. Consultez le fichier [LICENSE](LICENSE).
-
