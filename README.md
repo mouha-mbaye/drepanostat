@@ -23,24 +23,17 @@ Les valeurs internes `Vehicle` et `Emmel` sont conservées pour les calculs. Ell
 sont présentées à l’utilisateur sous les libellés « Témoin véhicule » et
 « Témoin Emmel ».
 
-<<<<<<< HEAD
 ## Aperçu de l’application
 
-![Interface DrepanoStat](drepano_stat/assets/screenshots/interface.png)
+![Interface DrepanoStat](/assets/screenshots/interface.png)
 
-=======
->>>>>>> d2a8c7b (Restructure project layout)
 ## Installation
 
 Python 3.11 ou une version plus récente est recommandé.
 
 ```bash
 git clone https://github.com/mouha-mbaye/drepanostat
-<<<<<<< HEAD
-cd drepano_stat
-=======
 cd drepanostat
->>>>>>> d2a8c7b (Restructure project layout)
 python -m venv .venv
 ```
 
@@ -70,6 +63,20 @@ streamlit run app.py
 
 Streamlit indique ensuite l’adresse locale à ouvrir dans un navigateur,
 généralement `http://localhost:8501`.
+
+## Lancement sans ligne de commande sous Windows
+
+Pour utiliser DrepanoStat sans saisir de commandes dans un terminal :
+
+1. Lors de la première utilisation, double-cliquer sur
+   `installer_drepanostat.bat`. Ce script crée l’environnement virtuel `.venv`
+   et installe les dépendances nécessaires.
+2. Une fois l’installation terminée, double-cliquer sur
+   `lancer_drepanostat.bat` pour démarrer DrepanoStat.
+3. Le lanceur exécute l’application avec Streamlit. L’interface s’ouvre ensuite
+   dans le navigateur par défaut ou est accessible à l’adresse indiquée à l’écran.
+
+Les deux fichiers `.bat` doivent rester dans le même dossier que `app.py`.
 
 ## Format des données
 
@@ -144,12 +151,8 @@ La version **v0.1.0** constitue la première version stable locale. Elle couvre 
 
 ## Auteur
 
-<<<<<<< HEAD
 Mouhamed Mbaye — Laboratoire de Biophysique Pharmaceutique, Département de Pharmacie, FMPO, UCAD.
 Projet développé dans le cadre d’un outil d’appui à l’analyse statistique des tests anti-falcémiants en pharmacognosie.
-=======
-Mbaye — Projet développé dans le cadre d’un outil d’appui à l’analyse statistique des tests anti-falcémiants en pharmacognosie.
->>>>>>> d2a8c7b (Restructure project layout)
 
 ## Licence
 
